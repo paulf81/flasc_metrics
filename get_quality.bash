@@ -3,7 +3,7 @@
 set -e
 
 githashes=(
-    "50705951a464a6015a6abb5cc684e5a08c1e20fc"  # Develop
+    "5fcffba5622caff81b07f72a25cd0d0ec5e64a55"  # First commit with timing tests included
 )
 
 # base_dir=`pwd`
