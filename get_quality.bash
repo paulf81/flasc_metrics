@@ -3,7 +3,8 @@
 set -e
 
 githashes=(
-    "5fcffba5622caff81b07f72a25cd0d0ec5e64a55"  # First commit with timing tests included
+    "8bab836c4913455e0a7b82bf260bd46f385330f2"  # Improved develop with timing function
+    "19fdd3cdfcd8cb0e60788ecc8cd6136d23e93d7e"  # Add polars energy ratio
 )
 
 # base_dir=`pwd`
