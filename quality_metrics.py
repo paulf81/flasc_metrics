@@ -14,7 +14,6 @@
 
 import sys
 import numpy as np
-import warnings
 import datetime
 
 from flasc.timing_tests.energy_ratio_timing import time_energy_ratio_with_bootstrapping
@@ -22,7 +21,6 @@ from flasc.timing_tests.energy_ratio_timing import time_energy_ratio_with_bootst
     
 
 if __name__=="__main__":
-    warnings.filterwarnings('ignore')
 
     commit_hash = sys.argv[1]
 
