@@ -5,6 +5,7 @@ set -e
 githashes=(
     "8bab836c4913455e0a7b82bf260bd46f385330f2"  # Improved develop with timing function
     "19fdd3cdfcd8cb0e60788ecc8cd6136d23e93d7e"  # Add polars energy ratio
+    "de693739a38e2f5595928709b63a5992825def18"
 )
 
 # base_dir=`pwd`
